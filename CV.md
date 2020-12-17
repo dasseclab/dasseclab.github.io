@@ -2,6 +2,7 @@
 layout: page
 title: "CV"
 permalink: /CV/
+---
 
 # CV
 Here is my brief CV for educational, career and personal projects. More details can be found on my [LinkedIn](https://linkedin.com/in/drewsutton) profile or by soliciting me via email at [dasseclab@protonmail.ch](mailto:dasseclab@protonmail.ch)

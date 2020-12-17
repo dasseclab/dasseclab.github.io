@@ -2,6 +2,7 @@
 layout: page
 title: "CV"
 permalink: /CV/
+theme: hacker
 ---
 
 # CV

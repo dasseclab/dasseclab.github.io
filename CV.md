@@ -1,14 +1,13 @@
-#CV
-
+# CV
 Here is my brief CV for educational, career and personal projects. More details can be found on my [LinkedIn](https://linkedin.com/in/drewsutton) profile or by soliciting me via email at [dasseclab@protonmail.ch](mailto:dasseclab@protonmail.ch)
 
-##Education
+## Education
 Bachelor's of Science, Information Security and Assurance. Kennesaw State Univeristy. 2008.
 
-##Certifications
+## Certifications
 SANS Security Essentials (GSEC), 2009 - 2013.
 
-##Professional Career
+## Professional Career
 **Twitter** - Network Engineer. Edge Network Engineering. 2019 - Current.
 
 Promoted from Data Center Engineering organization into Network Engineering, focusing on Twitter's Edge team. Edge Network Engineering includes technical veritcals of IP Transit and Peering, CDN, external Load Balancing and Network Security. Projects have ranged from turning up new peering or transit circuits, IPSec VPNs, ACL and security policies, high-visibility DNS maintenance and creating device routing policies while supporting the operations of same. Promoted to Network Engineer II in 2020 where I continue to work in depth on the above.
@@ -35,9 +34,9 @@ In Windows Technical Services, I worked in an in-house corporate data center per
 **Georgia-Pacific Company** - IT Procurement - 2005 - 2007.
 In IT Procurement, I worked on a team purchasing hardware, software, licenses in addition to assiting corporate customers with build specifications and resolving technical questions with orders. Also performed invoice reconcilliation between vendors and AP.
 
-##Projects
+## Projects
 [DKEY - An Antiforensic Data Destruction Tool](https://github.com/dasseclab/DKEY)
 
-##Conference Talks
+## Conference Talks
 [DKEY: Data Destruction At Scale.](https://www.youtube.com/watch?v=cQFlAhUEz5g) [PhreakNIC 21.](https://phreaknic.info) 3 - 5 November 2017.
 [SharkDump: Network Analysys Using tcpdump and Wireshark.](https://www.youtube.com/watch?v=5Z-YOa3Slrg) [PhreakNIC 21.](https://phreaknic.info) 3 - 5 November 2017.

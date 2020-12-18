@@ -2,7 +2,7 @@
 layout: post
 title:  "Thoughts on CTF, CCDC and Simulations"
 date:   2015-01-10 00:00:00 -0500
-categories: infosec, netsec
+categories: infosec netsec
 ---
 I've been sitting on this topic for a while since I read the articles, now’s as good a time as any to put this to print. Capture The Flag competitions, like Black Hat’s renowned competition, have long been a staple of hacker conventions and way to get some industry bragging rights under your belt. Conversely, defensive competitions like the Collegiate Cyber Defense Competition (CCDC) have caught a bit of flak about not being “real enough”. I’ve personally never found criticism of one event, using the other as a basis for that criticism, to be necessarily valid because they tend to dig deep, split hairs and otherwise ignore the obvious – the obvious being that the competitions have entirely different purposes.
 

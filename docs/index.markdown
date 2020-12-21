@@ -15,5 +15,6 @@ layouts: home
 				<li><a href="/blog">Blog</a></li>
 			</ul>
 			</nav>
+		<p>This is the website for Drew Sutton (dasseclab).</p>
 	</body>
 </html>

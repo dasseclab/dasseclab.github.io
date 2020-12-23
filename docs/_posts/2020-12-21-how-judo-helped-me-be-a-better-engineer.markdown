@@ -1,7 +1,7 @@
 ---
 layouts: post
 title: "How Judo Helped Me Be A Better Engineer"
-date: 2020-12-XX
+date: 2020-12-21
 categories: engineering
 ---
 In an effort to fight a sedentary work-life, a few years ago, I decided to pick up [Judo](https://en.wikipedia.org/wiki/Judo). A combat sport, it was guaranteed to get me up and moving and provide a bit of a social element. At least, moving more than playing darts down at the pub and drinking more water than beer. I'd been considering Judo for years but always found one reason or another **not** to start, so I finally figured it was time. 

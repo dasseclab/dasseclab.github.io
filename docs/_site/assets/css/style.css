@@ -43,12 +43,6 @@
 
 body { margin: 0; padding: 0; background: #151515 url("../images/bkg.png") 0 0; color: #eaeaea; font-size: 16px; line-height: 1.5; font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace; }
 
-nav ul, footer ul { font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace; padding: 0px; list-style: none; font-weight: bold; }
-
-nav ul li, footer ul li { display: inline; margin-right: 20px; }
-
-footer { border-top: 1px solid }
-
 /* General & 'Reset' Stuff */
 .container { width: 90%; max-width: 1000px; margin: 0 auto; }
 

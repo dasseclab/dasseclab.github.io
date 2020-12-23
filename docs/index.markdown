@@ -15,6 +15,11 @@ layouts: home
 				<li><a href="/blog">Blog</a></li>
 			</ul>
 			</nav>
-		<p>This is the website for Drew Sutton (dasseclab).</p>
+		<p>This is the blog for Drew Sutton (dasseclab).</p>
+		<p></p>
+		<p>I am a network engineer who is interested in distributed networks and their security.</p>
+		<p>Check out my <a href="/about">about</a> page to learn more about me and my <a href="/CV">CV</a> to learn about my work and academic history.</p>
+		<p></p>
+		<p>The thoughts and opinions expressed in this blog are mine and not necessarily those of any employer, past, present or future.</p>
 	</body>
 </html>

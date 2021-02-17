@@ -1,5 +1,6 @@
 ---
 layout: post
+author: dasseclab
 title:  "Thoughts on CTF, CCDC and Simulations"
 date:   2015-01-10 00:00:00 -0500
 categories: infosec netsec

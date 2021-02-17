@@ -1,7 +1,6 @@
 ---
 layouts: post
 title: "How Judo Helped Me Be A Better Engineer"
-author: dasseclab
 date: 2020-12-21
 categories: engineering
 ---

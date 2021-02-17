@@ -6,9 +6,12 @@ layouts: home
 ---
 
 <html>
+		<style>
+			ul#menu li {display:inline;}
+		</style>
 	<body>
 			<nav>
-			<ul>
+			<ul id=menu>
 				<li><a href="/">Home</a></li>
 				<li><a href="/about">About</a></li>
 				<li><a href="/CV">CV</a></li>

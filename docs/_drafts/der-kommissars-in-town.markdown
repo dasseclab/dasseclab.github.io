@@ -1,5 +1,6 @@
 ---
 layouts: post
+author: dasseclab
 title: "Der Kommisar's in Town: Embedded Security Teams"
 
 categories: netsec

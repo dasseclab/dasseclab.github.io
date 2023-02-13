@@ -14,7 +14,11 @@ Bachelor's of Science, Information Security and Assurance. Kennesaw State Univer
 SANS Security Essentials (GSEC), 2009 - 2013.
 
 ## Professional Career
-**Twitter** - Network Engineer. Edge Network Engineering. 2019 - Current.
+**Cloudflare** - Network Deployment Engineer. Hyperscale Infrastructure. 2023 - Current.
+
+This role I am working on the deployment of Hyperscale and Edge PoPs, interconnecting them with the Cloudflare backbone and backend infrastructure to serve Cloudflare customers. 
+
+**Twitter** - Network Engineer. Edge Network Engineering. 2019 - 2022.
 
 Promoted from Data Center Engineering organization into Network Engineering, focusing on Twitter's Edge team. Edge Network Engineering includes technical veritcals of IP Transit and Peering, CDN, external Load Balancing and Network Security. Projects have ranged from turning up new peering or transit circuits, IPSec VPNs, ACL and security policies, high-visibility DNS maintenance and creating device routing policies while supporting the operations of same. Promoted to Network Engineer II in 2020 where I continue to work in depth on the above.
 

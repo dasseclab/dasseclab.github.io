@@ -16,6 +16,7 @@ layouts: home
 				<li><a href="/about">About</a></li>
 				<li><a href="/CV">CV</a></li>
 				<li><a href="/blog">Blog</a></li>
+				<li><a href="/jp-station">Japanimation Station Project</a></li>
 			</ul>
 			</nav>
 		<p>This is the blog for Drew Sutton (dasseclab).</p>

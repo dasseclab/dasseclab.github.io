@@ -16,7 +16,7 @@ I spent the majority of the 1990s getting deep into Japanese animation (anime, o
 
 There is more than simple nostalgia of my own teenage and university years though; there's a more practical concern with physical space. LaserDiscs get heavy and my tapes simply take up a lot of room. Digitizing this media means I can streamline the amount of stuff I am storing, preserve and share items with others if wanted and maybe offload tapes and discs to other fans with more room. That's quite an involved user story. 
 
-![screenshot of the first North American syndication run of Dragonball Z: probably of interest to fan folk](./_site/assets/images/DBZ-syndication.png)
+![screenshot of the first North American syndication run of Dragonball Z: probably of interest to fan folk](https://github.com/dasseclab/dasseclab.github.io/blob/main/_site/assets/images/DBZ-syndication.png)
 
 # Use Case
 Included with the reasons of personal nostalgia and archiving for other members of the fandom highlighted in the background section, there are additional technical limitations to analog media. The storage media of video cassettes is magnetic tape which are sensitive to heat in storage. For any lengthy period of storage, they need to be kept in a climate controlled area in order for the tape to remain readable. Additionally, the signal on the tape suffers some minor degree of loss with each playback. Given that some of these tapes were a part of a hobby and in some instances, the only way to watch these shows, I played these tapes a lot back in the day. Tape quality matters and cost always a factor (especially a teenager's hobby), sometimes corners were cut on tape quality. More corners were cut with recording speeds. In the days of my heaviest usage, VHS VCRs recorded in 3 speeds: Standard Play (SP), Long Play (LP) and Extended Play (EP). On a standard VHS cassette (T-120), SP was 120 minutes (2h) of recording time. However, quality of the recording could be sacrified to get more recording time out of that same cassette. LP was 4 hours and EP was 6 hours on a T-120 cassette. There were other cassette types that could get as much as 10 hours on EP. At one point, my personal standard was Sony V T-180s, which could do 8 hours on EP and 3 hours SP. Finally, there was loss when you recorded tape to tape. This was very important when it came to *fansub* tapes. It could be noticable loss, too, the further number of copies you got away from a primary recording. 
@@ -30,7 +30,6 @@ On the analog side, we have different hardware for playback of different media -
 
 The **Alternatives Considered** section will have some detail to, well, alternatives at how I arrived at this design. What I wound up executing as the final design was iterated over a couple of concepts.
 
-<img src="japanimation-station-daig.png" alt="diagram of hardware setup">
 ![diagram of hardware setup](japanimation-station-diag.png)
 
 (Ok, as a network engineer, I would be remiss not to include a schematic of some sort.)

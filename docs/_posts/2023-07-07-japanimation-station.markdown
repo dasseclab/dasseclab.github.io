@@ -16,6 +16,7 @@ I spent the majority of the 1990s getting deep into Japanese animation (anime, o
 
 There is more than simple nostalgia of my own teenage and university years though; there's a more practical concern with physical space. LaserDiscs get heavy and my tapes simply take up a lot of room. Digitizing this media means I can streamline the amount of stuff I am storing, preserve and share items with others if wanted and maybe offload tapes and discs to other fans with more room. That's quite an involved user story. 
 
+<img src="https://github.com/dasseclab/dasseclab.github.io/blob/main/_site/assets/images/DBZ-syndication.png" alt="screenshot of the first North American syndication run of Dragonball Z">
 ![screenshot of the first North American syndication run of Dragonball Z: probably of interest to fan folk](https://github.com/dasseclab/dasseclab.github.io/blob/main/_site/assets/images/DBZ-syndication.png)
 
 # Use Case

@@ -30,7 +30,8 @@ On the analog side, we have different hardware for playback of different media -
 
 The **Alternatives Considered** section will have some detail to, well, alternatives at how I arrived at this design. What I wound up executing as the final design was iterated over a couple of concepts.
 
-![diagram of hardware setup](images/japanimation-station-diag.png)
+<img src="japanimation-station-daig.png" alt="diagram of hardware setup">
+![diagram of hardware setup](japanimation-station-diag.png)
 
 (Ok, as a network engineer, I would be remiss not to include a schematic of some sort.)
 

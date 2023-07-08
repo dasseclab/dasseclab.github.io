@@ -30,7 +30,7 @@ On the analog side, we have different hardware for playback of different media -
 
 The **Alternatives Considered** section will have some detail to, well, alternatives at how I arrived at this design. What I wound up executing as the final design was iterated over a couple of concepts.
 
-![diagram of hardware setup](japanimation-station-diag.png)
+![diagram of hardware setup](https://github.com/dasseclab/dasseclab.github.io/blob/main/_site/assets/images/japanimation-station-diag.png)
 
 (Ok, as a network engineer, I would be remiss not to include a schematic of some sort.)
 
@@ -82,12 +82,12 @@ My preference is to build using Free or Open Source Software (F/OSS) as possible
 For playback on a PC for quality check, I am using [VLC Media Player](https://www.videolan.org/vlc/) for it's availability across platforms and wide array of codec support. I still shudder at the early 2000s and not just the variety of video formats (several still with us) but the variety of video codec packages that predated the [Combined Community Codec Pack (CCCP)](https://en.wikipedia.org/wiki/Combined_Community_Codec_Pack) which almost guaranteed *no two players would play the same video*. Perhaps unfounded in 2023 but those scars are deep. 
 
 ### Capture
-![sample of a capture using OBS](./_site/assets/images/obs-example.png)
+![sample of a capture using OBS](https://github.com/dasseclab/dasseclab.github.io/blob/main/_site/assets/images/obs-example.png)
 
 The signal that is transmitted by the 4K UHD Capture Device is recorded using [OBS Studio](https://obsproject.com/), where the recorded file is exported to `MP4`, which I use becuase of it's wide array of device support, including directly by most modern televisions. The recommendation for OBS came directly from the Capture Device instructions and it was fortunately natively included in Kubuntu's base repository. As this Capture Device is popular with video streamers, there are probably other pieces of software that can accomplish this task but there being a native Linux version and frictionless install, I went with this. The initial configuration was fairly straightforward and I have not noticed a need to make any alternate configurations for different sources. 
 
 ### Editing
-![sample of editing video in shotcut](./_site/assets/images/shotcut-example.png)
+![sample of editing video in shotcut](https://github.com/dasseclab/dasseclab.github.io/blob/main/_site/assets/images/shotcut-example.png)
 
 Once recorded, it comes time to edit. I mostly wanted a lightweight editor as the bulk of editing are simpler cuts - trim some edges of VCR or LD play screens, remove the frames where the LD player's laser rotates when the disc is finished playing that side (or the time it takes for me to manually swap discs for anything greater than 60 minutes of runtime), segment episodes or cut commercials into unique files - but hopefully powerful enough that if I wanted to learn some restoration techniques it might be capable of handling those. So far, I have been using [Shotcut](https://shotcut.org/) to fullfill most of the needs I have found so far. As I am truly an amateur at video editing in any sense of the word, I have not really found the ability yet to get to the restoration projects but for every other usecase, Shotcut checks all of the boxes. Support for Shotcut has been refreshing. Certainly not as widespread as competitive commercial software like Adobe Premier, once I figure out the right terms, there are usually a handful of tutorials to demonstrate what I need. 
 

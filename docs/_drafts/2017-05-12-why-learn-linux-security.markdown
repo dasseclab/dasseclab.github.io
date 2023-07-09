@@ -2,7 +2,7 @@
 layouts: post
 author: dasseclab
 title: "Joint Task Force: Forensics and Anti-Forensics"
-
+date: 2017-05-12
 categories: netsec
 ---
 In catching up on Reddit’s /r/linux subreddit forever ago, I saw a [post](https://www.reddit.com/r/linux/comments/3kvuac/is_linux_important_for_network_security/) (archived now) about ‘Is Linux Important for Network Security?’. My natural thought is immediately “Yes!” but I was interested to see what other responses might be, was there something I was immediately overlooking.
